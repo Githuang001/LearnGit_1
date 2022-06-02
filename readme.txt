@@ -7,3 +7,5 @@ second modified: Git is free software.
 Third modified: Git is free software.
 
 Git tracks changes of files.
+
+Creating a new branch “dev” is quick.
